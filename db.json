@@ -41,6 +41,30 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "id": 8,
+      "name": "cactus",
+      "image": "./images/aloe.jpg",
+      "price": "32.55"
+    },
+    {
+      "id": 9,
+      "name": "flower",
+      "image": "./images/aloe.jpg",
+      "price": "32.59"
+    },
+    {
+      "id": 10,
+      "name": "mulberries",
+      "image": "./images/fiddle-leaf-fig.jpg",
+      "price": "5.36"
+    },
+    {
+      "id": 11,
+      "name": "fioria",
+      "image": "./images/pothos.jpg",
+      "price": "1.55"
     }
   ]
 }
